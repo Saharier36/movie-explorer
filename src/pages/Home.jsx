@@ -12,9 +12,11 @@ function Home() {
       <div className="absolute bottom-0 left-0 w-full h-32 bg-linear-to-t from-black to-transparent"></div>
 
       <div className="relative z-10 text-white">
-        <h1 className="text-4xl md:text-6xl font-bold mb-4">DISCOVER MOVIES</h1>
+        <h1 className="text-4xl md:text-6xl font-bold mb-4">
+          FIND YOUR NEXT WATCH.
+        </h1>
         <p className="max-w-md text-xl font-bold mb-8 mx-auto">
-          Explore and discover your favorite movies from around the world.
+          Browse and search thousands of movies and shows in seconds.
         </p>
         <Link
           to="/movies"
