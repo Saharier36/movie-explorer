@@ -5,8 +5,8 @@ function Footer() {
   return (
     <footer className="bg-black text-white text-center py-10 mt-10">
       <div className="flex items-center justify-center gap-2 mb-3">
-        <img src={logo} alt="MovieExplorer Logo" className="h-8" />
-        <span className="text-3xl font-extrabold">MovieExplorer</span>
+        <img src={logo} alt="MovieExplorer Logo" className="h-10" />
+        <span className="text-3xl md:text-4xl font-extrabold">MovieExplorer</span>
       </div>
 
       <p className="text-sm mb-4">© 2026 MovieExplorer. All rights reserved.</p>
