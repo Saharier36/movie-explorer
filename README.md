@@ -48,7 +48,7 @@ Experience MovieExplorer live in action:
 
 | Home Page | Movies Page |
 | :---: | :---: |
-| ![Home Page](./screenshots/home.png) | ![Movies Page](./screenshots/movies.png) |
+| ![Home Page](https://github.com/user-attachments/assets/d29c19f9-b649-4433-88a7-7c11fdb4d390) | ![Movies Page](https://github.com/user-attachments/assets/f36d8921-cb64-44b7-8c71-1aeff93a5a5a) |
 | *Hero banner, navigation bar, and featured highlights* | *Search bar, movie cards grid, and details modal* |
 
 ---
@@ -99,7 +99,7 @@ Ensure you have [Node.js](https://nodejs.org/) (version 18.0 or higher recommend
 
 ## 👨‍💻 Author
 
-**Saharier**
+**Saharier Omi**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Saharier36-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saharier36)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saharier--omi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saharier-omi)
